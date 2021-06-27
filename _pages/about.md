@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage! (More content coming soon!)
+Welcome to my webpage! (Under construction...)
