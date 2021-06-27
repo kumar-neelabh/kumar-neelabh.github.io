@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Computer Science, Indraprastha University, 2020
+* M.S. (by Research) in Computer Science, IIIT Hyderabad, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Assistant
+  * IIT Bombay
+  * Project: Using Deep SVDD for Anomaly Detection in Chest X-Rays
+  * Supervisor: Professor Suyash Awate
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Research Assistant
+  * IIT Bombay
+  * Project: Improving Grad-CAM: Gradient-Based Visual Explanations from CNNs
+  * Supervisor: Professor Suyash Awate
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* General Programming
+  * Python
+  * C++
+* Neural Network Frameworks
+  * PyTorch
+  * TensorFlow
+  * Brian
+* Scientific Computing
+  * NumPy
+  * Pandas
+  * Matplotlib
 
 Publications
 ======
