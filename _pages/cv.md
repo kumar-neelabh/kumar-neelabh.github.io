@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Computer Science, Indraprastha University, 2020
 * M.S. (by Research) in Computer Science, IIIT Hyderabad, 2022 (expected)
+* B.Tech. in Computer Science, Indraprastha University, 2020
 
 Work experience
 ======
 * Summer 2019: Research Assistant
   * **Organization:** IIT Bombay
-  * **Project:** Using Deep SVDD for Anomaly Detection in Chest X-Rays
+  * **Project:** Deep SVDD for One-Class Classification in Chest X-Rays
   * **Supervisor:** Professor Suyash Awate
 
 * Summer 2018: Research Assistant
