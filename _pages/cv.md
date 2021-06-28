@@ -17,14 +17,14 @@ Education
 Work experience
 ======
 * Summer 2019: Research Assistant
-  * IIT Bombay
-  * Project: Using Deep SVDD for Anomaly Detection in Chest X-Rays
-  * Supervisor: Professor Suyash Awate
+  * **Organization:** IIT Bombay
+  * **Project:** Using Deep SVDD for Anomaly Detection in Chest X-Rays
+  * **Supervisor:** Professor Suyash Awate
 
 * Summer 2018: Research Assistant
-  * IIT Bombay
-  * Project: Improving Grad-CAM: Gradient-Based Visual Explanations from CNNs
-  * Supervisor: Professor Suyash Awate
+  * **Organization:** IIT Bombay
+  * **Project:** Improving Grad-CAM: Gradient-Based Visual Explanations from CNNs
+  * **Supervisor:** Professor Suyash Awate
   
 Skills
 ======
