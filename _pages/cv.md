@@ -16,12 +16,12 @@ Education
 
 Work experience
 ======
-* Summer 2019: Research Assistant
+* Summer 2019: Research Intern
   * **Organization:** IIT Bombay
   * **Project:** Deep SVDD for One-Class Classification in Chest X-Rays
   * **Supervisor:** Professor Suyash Awate
 
-* Summer 2018: Research Assistant
+* Summer 2018: Research Intern
   * **Organization:** IIT Bombay
   * **Project:** Improving Grad-CAM: Gradient-Based Visual Explanations from CNNs
   * **Supervisor:** Professor Suyash Awate
